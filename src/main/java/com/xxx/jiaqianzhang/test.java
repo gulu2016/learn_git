@@ -8,5 +8,6 @@ public class test {
         System.out.println("hello git3 from hot-fix");
         System.out.println("hello git5 from master");
         System.out.println("hello git5 from hot-fix");
+        System.out.println("hello git6 from master,push to github");
     }
 }
